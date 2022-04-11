@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69281" started-at="2017-12-16T00:28:44Z" finished-at="2017-12-16T00:29:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69281" started-at="2017-12-16T00:28:44Z" finished-at="2017-12-16T00:29:54Z">
+      <class name="testcases.TC003_ClickLeads">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="beforeSuite" is-config="true" duration-ms="661" started-at="2017-12-16T05:58:44Z" finished-at="2017-12-16T05:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-12-16T05:58:44Z" finished-at="2017-12-16T05:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="setData" is-config="true" duration-ms="0" started-at="2017-12-16T05:58:44Z" finished-at="2017-12-16T05:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="beforeMethod" is-config="true" duration-ms="21622" started-at="2017-12-16T05:58:45Z" finished-at="2017-12-16T05:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickleadslnk(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="clickleadslnk" duration-ms="17706" started-at="2017-12-16T05:59:07Z" data-provider="fetchData" finished-at="2017-12-16T05:59:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rajat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sharma]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[msi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickleadslnk -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="afterMethod" is-config="true" duration-ms="1077" started-at="2017-12-16T05:59:24Z" finished-at="2017-12-16T05:59:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="beforeMethod" is-config="true" duration-ms="9305" started-at="2017-12-16T05:59:25Z" finished-at="2017-12-16T05:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickleadslnk(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="clickleadslnk" duration-ms="18139" started-at="2017-12-16T05:59:35Z" data-provider="fetchData" finished-at="2017-12-16T05:59:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rhaj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ajsd]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[all]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickleadslnk -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="afterMethod" is-config="true" duration-ms="629" started-at="2017-12-16T05:59:53Z" finished-at="2017-12-16T05:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-12-16T05:59:54Z" finished-at="2017-12-16T05:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC003_ClickLeads@addb54]" name="afterSuite" is-config="true" duration-ms="645" started-at="2017-12-16T05:59:54Z" finished-at="2017-12-16T05:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC003_ClickLeads -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
